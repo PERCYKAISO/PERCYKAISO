@@ -1,7 +1,7 @@
 - 👋 @PERCYKAISO
-- 👀 Learrning Programming: Java, Python...
-- 🌐 Fromt End Web Developer: Html, css, JavaScript
-- 🌱 BSc (Applied math and Computer science)
+- 👀 Junior SQL Developer: Discovery Limited (Vitality Global)
+- 🌐 SQL(MSSQL, Redshift, PostgreSQL), Programming(Python)
+- 🌱 BSc Honours in Computer science
 - 📫 Email: sekokotlakaiso98@gmail.com 
 
 <!---
